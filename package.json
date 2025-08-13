@@ -1,15 +1,15 @@
 {
 	"name" : "yadng",
-	"version" : "0.3.2",
+	"version" : "0.3.3",
 	"repository" : {
 		"type" : "git",
-		"url" : "git://github.com/hr6r/yadng.git"
+		"url" : "git://github.com/tangentyh/Yet-Another-Drag-and-Go.git"
 	},
 	"author" : "hr6r",
 	"bugs" : {
-		"url" : "https://github.com/hr6r/yadng/issues"
+		"url" : "https://github.com/tangentyh/Yet-Another-Drag-and-Go/issues"
 	},
-	"homepage" : "https://github.com/hr6r/yadng",
+	"homepage" : "https://github.com/tangentyh/Yet-Another-Drag-and-Go",
 	"devDependencies" : {
 		"grunt" : "~0.4.2",
 		"grunt-contrib-jshint" : "~0.8.0"

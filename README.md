@@ -5,7 +5,20 @@ Drag URL to open at Back/Front, Before/After; Drag text to 4 directions to searc
 
 [Install Via Google Web Store](https://chrome.google.com/webstore/detail/hnoonkgmmnklbdehoepdjcidhjbncjmi/)
 
+## Installation
+
+For development or manual installation, see [INSTALL.md](INSTALL.md) for detailed instructions.
+
 ## Changelog ##
+
+**v0.3.3**
+
+1. Upgrade to Manifest V3 for better Chrome compatibility
+2. Migrated from background scripts to service worker
+3. Updated Chrome extension APIs for modern Chrome versions
+
+---
+
 **v0.3.2**
 
 1. fix open img link issue
